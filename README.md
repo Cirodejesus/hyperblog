@@ -1,2 +1,0 @@
-# proyectoGit
-Curso Git
